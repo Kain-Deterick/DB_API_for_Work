@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>document.h</FILENAME>
+      <LINE>309</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Value::{ctor}</FUNCTION>
+    <DECORATED>??0Value@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>309</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>document.h</FILENAME>
+      <LINE>567</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Value::=</FUNCTION>
+    <DECORATED>??4Value@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>567</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\detail\</FILEPATH>
+      <FILENAME>result.h</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::internal::Result_detail::{ctor}</FUNCTION>
+    <DECORATED>??0Result_detail@internal@r0@abi2@mysqlx@@IEAA@$$QEAV01234@@Z</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\detail\</FILEPATH>
+      <FILENAME>session.h</FILENAME>
+      <LINE>138</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::internal::Query_src::{ctor}</FUNCTION>
+    <DECORATED>??0Query_src@internal@r0@abi2@mysqlx@@QEAA@$$QEAU01234@@Z</DECORATED>
+    <FUNCLINE>138</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\detail\</FILEPATH>
+      <FILENAME>session.h</FILENAME>
+      <LINE>290</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::internal::Client_detail::{ctor}</FUNCTION>
+    <DECORATED>??0Client_detail@internal@r0@abi2@mysqlx@@IEAA@$$QEAU01234@@Z</DECORATED>
+    <FUNCLINE>290</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\detail\</FILEPATH>
+      <FILENAME>session.h</FILENAME>
+      <LINE>352</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::internal::Session_detail::{ctor}</FUNCTION>
+    <DECORATED>??0Session_detail@internal@r0@abi2@mysqlx@@IEAA@$$QEAU01234@@Z</DECORATED>
+    <FUNCLINE>352</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\</FILEPATH>
+      <FILENAME>xdevapi.h</FILENAME>
+      <LINE>1726</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Session::{ctor}</FUNCTION>
+    <DECORATED>??0Session@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>1726</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::SqlResult,mysqlx::abi2::r0::internal::SQL_statement&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VSqlResult@r0@abi2@mysqlx@@USQL_statement@internal@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::SqlResult,mysqlx::abi2::r0::internal::SQL_statement&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VSqlResult@r0@abi2@mysqlx@@USQL_statement@internal@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableRemove&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VResult@r0@abi2@mysqlx@@VTableRemove@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableRemove&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VResult@r0@abi2@mysqlx@@VTableRemove@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableUpdate&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VResult@r0@abi2@mysqlx@@VTableUpdate@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableUpdate&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VResult@r0@abi2@mysqlx@@VTableUpdate@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::RowResult,mysqlx::abi2::r0::TableSelect&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VRowResult@r0@abi2@mysqlx@@VTableSelect@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableInsert&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VResult@r0@abi2@mysqlx@@VTableInsert@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableInsert&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VResult@r0@abi2@mysqlx@@VTableInsert@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionModify&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VResult@r0@abi2@mysqlx@@VCollectionModify@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionModify&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VResult@r0@abi2@mysqlx@@VCollectionModify@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::DocResult,mysqlx::abi2::r0::CollectionFind&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VDocResult@r0@abi2@mysqlx@@VCollectionFind@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::DocResult,mysqlx::abi2::r0::CollectionFind&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VDocResult@r0@abi2@mysqlx@@VCollectionFind@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionRemove&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VResult@r0@abi2@mysqlx@@VCollectionRemove@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionRemove&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VResult@r0@abi2@mysqlx@@VCollectionRemove@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>136</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionAdd&gt;::=</FUNCTION>
+    <DECORATED>??4?$Executable@VResult@r0@abi2@mysqlx@@VCollectionAdd@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>result.h</FILENAME>
+      <LINE>133</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::internal::Result_common&lt;mysqlx::abi2::r0::internal::Row_result_detail&lt;mysqlx::abi2::r0::Columns&gt; &gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Result_common@V?$Row_result_detail@VColumns@r0@abi2@mysqlx@@@internal@r0@abi2@mysqlx@@@internal@r0@abi2@mysqlx@@IEAA@$$QEAV01234@@Z</DECORATED>
+    <FUNCLINE>133</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>result.h</FILENAME>
+      <LINE>133</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::internal::Result_common&lt;mysqlx::abi2::r0::internal::Result_detail&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Result_common@VResult_detail@internal@r0@abi2@mysqlx@@@internal@r0@abi2@mysqlx@@IEAA@$$QEAV01234@@Z</DECORATED>
+    <FUNCLINE>133</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Program Files\MySQL\MySQL Connector C++ 9.0\include\mysqlx\devapi\</FILEPATH>
+      <FILENAME>executable.h</FILENAME>
+      <LINE>119</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Эта функция не может выдавать исключения (throw). Объявите ее как "noexcept" (f.6).</DESCRIPTION>
+    <FUNCTION>mysqlx::abi2::r0::Executable&lt;mysqlx::abi2::r0::RowResult,mysqlx::abi2::r0::TableSelect&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$Executable@VRowResult@r0@abi2@mysqlx@@VTableSelect@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z</DECORATED>
+    <FUNCLINE>119</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,1004 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/document.h"
+                },
+                "region": {
+                  "startLine": 309,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Value::{ctor}",
+                  "decoratedName": "??0Value@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/document.h"
+                },
+                "region": {
+                  "startLine": 567,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Value::=",
+                  "decoratedName": "??4Value@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/detail/result.h"
+                },
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::internal::Result_detail::{ctor}",
+                  "decoratedName": "??0Result_detail@internal@r0@abi2@mysqlx@@IEAA@$$QEAV01234@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/detail/session.h"
+                },
+                "region": {
+                  "startLine": 138,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::internal::Query_src::{ctor}",
+                  "decoratedName": "??0Query_src@internal@r0@abi2@mysqlx@@QEAA@$$QEAU01234@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/detail/session.h"
+                },
+                "region": {
+                  "startLine": 290,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::internal::Client_detail::{ctor}",
+                  "decoratedName": "??0Client_detail@internal@r0@abi2@mysqlx@@IEAA@$$QEAU01234@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/detail/session.h"
+                },
+                "region": {
+                  "startLine": 352,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::internal::Session_detail::{ctor}",
+                  "decoratedName": "??0Session_detail@internal@r0@abi2@mysqlx@@IEAA@$$QEAU01234@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/xdevapi.h"
+                },
+                "region": {
+                  "startLine": 1726,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Session::{ctor}",
+                  "decoratedName": "??0Session@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::SqlResult,mysqlx::abi2::r0::internal::SQL_statement>::=",
+                  "decoratedName": "??4?$Executable@VSqlResult@r0@abi2@mysqlx@@USQL_statement@internal@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::SqlResult,mysqlx::abi2::r0::internal::SQL_statement>::{ctor}",
+                  "decoratedName": "??0?$Executable@VSqlResult@r0@abi2@mysqlx@@USQL_statement@internal@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableRemove>::=",
+                  "decoratedName": "??4?$Executable@VResult@r0@abi2@mysqlx@@VTableRemove@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableRemove>::{ctor}",
+                  "decoratedName": "??0?$Executable@VResult@r0@abi2@mysqlx@@VTableRemove@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableUpdate>::=",
+                  "decoratedName": "??4?$Executable@VResult@r0@abi2@mysqlx@@VTableUpdate@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableUpdate>::{ctor}",
+                  "decoratedName": "??0?$Executable@VResult@r0@abi2@mysqlx@@VTableUpdate@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::RowResult,mysqlx::abi2::r0::TableSelect>::=",
+                  "decoratedName": "??4?$Executable@VRowResult@r0@abi2@mysqlx@@VTableSelect@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableInsert>::=",
+                  "decoratedName": "??4?$Executable@VResult@r0@abi2@mysqlx@@VTableInsert@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::TableInsert>::{ctor}",
+                  "decoratedName": "??0?$Executable@VResult@r0@abi2@mysqlx@@VTableInsert@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionModify>::=",
+                  "decoratedName": "??4?$Executable@VResult@r0@abi2@mysqlx@@VCollectionModify@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionModify>::{ctor}",
+                  "decoratedName": "??0?$Executable@VResult@r0@abi2@mysqlx@@VCollectionModify@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::DocResult,mysqlx::abi2::r0::CollectionFind>::=",
+                  "decoratedName": "??4?$Executable@VDocResult@r0@abi2@mysqlx@@VCollectionFind@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::DocResult,mysqlx::abi2::r0::CollectionFind>::{ctor}",
+                  "decoratedName": "??0?$Executable@VDocResult@r0@abi2@mysqlx@@VCollectionFind@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionRemove>::=",
+                  "decoratedName": "??4?$Executable@VResult@r0@abi2@mysqlx@@VCollectionRemove@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionRemove>::{ctor}",
+                  "decoratedName": "??0?$Executable@VResult@r0@abi2@mysqlx@@VCollectionRemove@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::Result,mysqlx::abi2::r0::CollectionAdd>::=",
+                  "decoratedName": "??4?$Executable@VResult@r0@abi2@mysqlx@@VCollectionAdd@234@@r0@abi2@mysqlx@@QEAAAEAV0123@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/result.h"
+                },
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::internal::Result_common<mysqlx::abi2::r0::internal::Row_result_detail<mysqlx::abi2::r0::Columns> >::{ctor}",
+                  "decoratedName": "??0?$Result_common@V?$Row_result_detail@VColumns@r0@abi2@mysqlx@@@internal@r0@abi2@mysqlx@@@internal@r0@abi2@mysqlx@@IEAA@$$QEAV01234@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/result.h"
+                },
+                "region": {
+                  "startLine": 133,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::internal::Result_common<mysqlx::abi2::r0::internal::Result_detail>::{ctor}",
+                  "decoratedName": "??0?$Result_common@VResult_detail@internal@r0@abi2@mysqlx@@@internal@r0@abi2@mysqlx@@IEAA@$$QEAV01234@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26439",
+          "level": "warning",
+          "message": {
+            "text": "Эта функция не может выдавать исключения (throw). Объявите ее как \"noexcept\" (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+                },
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 3
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "mysqlx::abi2::r0::Executable<mysqlx::abi2::r0::RowResult,mysqlx::abi2::r0::TableSelect>::{ctor}",
+                  "decoratedName": "??0?$Executable@VRowResult@r0@abi2@mysqlx@@VTableSelect@234@@r0@abi2@mysqlx@@QEAA@$$QEAV0123@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33520.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/document.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "c534cbe52ef4f8cf4f9f85b00b7bdeb878e0ffb8402f44cd9e069c282b5c935f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/detail/result.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "d5d21ea53e4b67a2ae9250eae13dd84bb92698b6a72204f1876e0f16c78bda10"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/detail/session.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "d847a7af29071ec754f2fe25038474cf4d0321fd3fb117bfd600931075cfdd1f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/xdevapi.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "95bee210596557feb7001537840559bc3e9b2d7a15993654b1f21ee1acfa5e2b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/executable.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "22ff6194eab3f7d3ea3cb3ba69bf25ee165c9fd0e5c7d8a272a49db52064ee0e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Program Files/MySQL/MySQL Connector C++ 9.0/include/mysqlx/devapi/result.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "f24053eea25a11d3142f3ee1f4efc4bdec09ebaae069266fed50fc3021afd7b8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/work/database_api/source/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "7e907519b430a783091e0a5c420b3559d7b794a3fd76c3d17939a98d42e46d73"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/work/database_api/mysql_api/mysql_db.h"
+          },
+          "hashes": {
+            "sha-256": "a6a90c7c00f0258f819878b65bb8528d6f4dace2b5e0d2dd7d7edfceef409657"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/common.h"
+          },
+          "hashes": {
+            "sha-256": "06c64df2aad1305139b43aad00daec5fe5b91aeb90e13d2c21bc5b7e94468be7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common.h"
+          },
+          "hashes": {
+            "sha-256": "4b281ba7ec92c768247091e6b99ece927b0d37c49bafe6415af72b31829837b6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common_constants.h"
+          },
+          "hashes": {
+            "sha-256": "9e7ad37519150eba8e4bde1f5c68d4300873bce3c1511b9617f826f53e76f66c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/version_info.h"
+          },
+          "hashes": {
+            "sha-256": "752de9ec6c91daac7a1264120c56a14821e6aa3f7e98df7959dfe22c24199894"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common/api.h"
+          },
+          "hashes": {
+            "sha-256": "9372a47ea5576add465a0fdaefb2c981525b4baf92f8538b145bf5f24a560c14"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common/error.h"
+          },
+          "hashes": {
+            "sha-256": "b8a66a745c0000624882d0b2f84218383485c3cac172668c140f07226d9695b1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common/util.h"
+          },
+          "hashes": {
+            "sha-256": "8c924949bbd53282a2206730b319f29d1ecae01627059dc2147f69b99bbb147b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common/value.h"
+          },
+          "hashes": {
+            "sha-256": "6938135fe9e907c512c394612b5fd3904c45acfe2701195291b6a26b75bee5e0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common/settings.h"
+          },
+          "hashes": {
+            "sha-256": "162c40a2e5651c98709f8c78c8c720cd01bbdb07193a37d4fb316e82dece4ecd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/row.h"
+          },
+          "hashes": {
+            "sha-256": "f15e5615c2404585bf0afcce203a8bf14a3ae6aaf70ec4d3637f2a1e684cabfb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/detail/row.h"
+          },
+          "hashes": {
+            "sha-256": "a8d2af9409fe8019b555cf95f8e5445a5b42e852bcc65ed1b54685da8ae60d77"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/collations.h"
+          },
+          "hashes": {
+            "sha-256": "a8d1f0b69b1159ae12736443144dbc2e555ac7794cf5420be5dc7f6457208345"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/mysql_charsets.h"
+          },
+          "hashes": {
+            "sha-256": "b8c0f89747b8f96f054f7c4281666f76b49af9aa49a7dd2f2909158f7942454f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/mysql_collations.h"
+          },
+          "hashes": {
+            "sha-256": "a9599bd3095f9ad92e09bf9773fb1d18703e710525def9a1877181fb5f8b51e6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/error.h"
+          },
+          "hashes": {
+            "sha-256": "e5bbe39ae82b5a66b3fea3da4de81a9a767982890230d5b0a140af67373d3f35"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/detail/error.h"
+          },
+          "hashes": {
+            "sha-256": "11ef33c526bc6aff9d9b1ec841cea7332323a540bcb71e114e90edf56c8cd1c3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/collection_crud.h"
+          },
+          "hashes": {
+            "sha-256": "0c1366c589f4e8a6f0377db6a8df28d1b4555e0ec4b5db149f8bc9180a67f808"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/common/op_if.h"
+          },
+          "hashes": {
+            "sha-256": "d86b82f78d78bfd79644c34bd7b5f0add27fc0fc82cae5bb2d67b26fe410050b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/crud.h"
+          },
+          "hashes": {
+            "sha-256": "f0ee404e50fc533c32f119b0a84c06353b524c1f7f479c59d72ae0f511254659"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/detail/crud.h"
+          },
+          "hashes": {
+            "sha-256": "f667aa1f4cdf1000157e5fe74dbe6709956b089913cbc6bd89bf247be1aa4dda"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/table_crud.h"
+          },
+          "hashes": {
+            "sha-256": "358191c7788e53f0be3ac08b9801fbc04fbc2d4754565c22c6a427098aaa46ff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/settings.h"
+          },
+          "hashes": {
+            "sha-256": "5104b7a364f1e6ca528c727622cf779b0155e13feebae7f44addc9c4126d893c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files/mysql/mysql connector c++ 9.0/include/mysqlx/devapi/detail/settings.h"
+          },
+          "hashes": {
+            "sha-256": "72423573eda6020d987b1e10309a1b72031d184d15e90d5b3ff2da1201ca26a2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/work/database_api/mysql_api/immutable_variables.h"
+          },
+          "hashes": {
+            "sha-256": "b07bb4ec65527b2333eacc92107c6aa649318f806d989cca99e7f8b2bb8f2d42"
+          }
+        }
+      ]
+    }
+  ]
+}

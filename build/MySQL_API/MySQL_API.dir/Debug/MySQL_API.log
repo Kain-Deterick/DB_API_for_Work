@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Work/Database_API/MySQL_API/CMakeLists.txt
+  MySQL_DB.cpp
+D:\Work\Database_API\MySQL_API\MySQL_DB.h(35,14): warning C4251: MySQL_API::name: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "MySQL_API"
+  (компиляция исходного файла "../../MySQL_API/MySQL_DB.cpp")
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xstring(2337,7):
+   см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+LINK : fatal error LNK1104: не удается открыть файл "C:\Program Files\MySQL\MySQL Connector C++ 9.0\lib64\debug\vs14\mysqlcppconnx.lib"
